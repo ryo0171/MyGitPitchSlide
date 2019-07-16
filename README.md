@@ -1,2 +1,0 @@
-# MyGitPitchSlide
-MyGitPitchSlide
